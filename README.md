@@ -21,11 +21,10 @@ Sklearn\
 Pandas
 
 ### Possible impacts of your project
+When deciding to invest in a movie it may good to inquire about how many writers are working on the script, as this might be an indicator of the quality of the script. \
 No relation found between genre and box office gross \
 A relation was found between number of script writers and box office gross \
-Number of cast members had a negative coefficient.
-
-When deciding to invest in a movie it may be adviced on how many writers are working on the script, as this might be an indicator of the quality of the script. 
+Number of cast members had a negative coefficient. 
 
 ### File Contents
 Data acquisition\
