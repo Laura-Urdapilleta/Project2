@@ -31,3 +31,5 @@ When deciding to invest in a movie it may be adviced on how many writers are wor
 Data acquisition\
 Data Cleaning\
 EDA and Modeling
+
+### Presentation
