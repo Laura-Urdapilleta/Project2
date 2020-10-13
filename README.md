@@ -18,7 +18,8 @@ Sample: 870 observations.
 BeautifulSoup\
 Selenium\
 Sklearn\
-Pandas
+Pandas\
+Seaborn
 
 ### Possible impacts of your project
 The same old criterias to decide what movie to invest in are not reliable anymore. Times are changing, and people consume movies for reasons far more diverse than decades ego. This prediction model will help movie investors make better decisions. 
