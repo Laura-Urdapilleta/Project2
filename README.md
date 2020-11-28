@@ -24,7 +24,7 @@ Seaborn
 ### Possible impacts of your project
 The same old criterias to decide what movie to invest in are not reliable anymore. Times are changing, and people consume movies for reasons far more diverse than decades ego. This prediction model will help movie investors make better decisions. 
 
-When deciding to invest in a movie it may good to inquire about how many writers are working on the script, as this might be an indicator of the quality of the script. \
+When deciding to invest in a movie it may be good to inquire about how many writers are working on the script, as this might be an indicator of the quality of the script. \
 No relation found between genre and box office gross \
 A relation was found between number of script writers and box office gross \
 Number of cast members had a negative coefficient. 
